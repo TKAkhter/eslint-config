@@ -29,5 +29,17 @@
   "devDependencies": {
     "prettier": "^2.8.8",
     "typescript": "^5.1"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tkakhter: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@github.com/TKAkhter/eslint-config.git"
+  },
+  "author": "Talha Akhter",
+  "bugs": {
+    "url": "https://github.com/TKAkhter/eslint-config/issues"
+  },
+  "homepage": "https://github.com/TKAkhter/eslint-config#readme"
 }
